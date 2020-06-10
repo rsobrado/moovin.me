@@ -9,13 +9,13 @@ moovin.me web development assessment
 ● Bootstrap
 ● API's necesarias
 
-##Desarrollo:
+## Desarrollo:
 Diseñar una página web ÚNICA responsive, estilo "wizard guide" u "Horizontal Slide Views" con 5 sliders (uno opcional).
 NOTA 1: Se adjunta ejemplo de diseño al final del documento.
 NOTA 2 : La prueba cuenta con una parte opcional.
 
 
-##Moovin Mensajería Express S.R.L
+## Moovin Mensajería Express S.R.L
 
 ### Step #1 ( Formulario )
 Crear un formulario con sus respectivas validaciones y máscaras.
